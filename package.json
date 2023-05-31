@@ -1,6 +1,6 @@
 {
   "name": "@onsetsoftware/entity-state",
-  "version": "0.0.1-alpha.0",
+  "version": "0.0.1-alpha.1",
   "description": "Broad types for working with Entity State",
   "keywords": [
     "Entity State",
