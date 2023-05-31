@@ -1,0 +1,22 @@
+{
+  "name": "@onsetsoftware/entity-state",
+  "version": "0.0.1-alpha.0",
+  "description": "Broad types for working with Entity State",
+  "keywords": [
+    "Entity State",
+    "Entities"
+  ],
+  "author": "Alex Currie-Clark",
+  "license": "MIT",
+  "types": "index.d.ts",
+  "scripts": {
+    "check": "tsc"
+  },
+  "type": "module",
+  "devDependencies": {
+    "typescript": "^5.0.4"
+  },
+  "files": [
+    "index.d.ts"
+  ]
+}
