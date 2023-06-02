@@ -10,7 +10,7 @@
   "license": "MIT",
   "types": "index.d.ts",
   "scripts": {
-    "check": "tsc"
+    "check": "tsc --noEmit"
   },
   "type": "module",
   "devDependencies": {
